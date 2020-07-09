@@ -1,4 +1,3 @@
-**Note:** Right click this file in the file tray and select open with Markdown Preview to view with markdown fonts applied
 ## Purpose of the database
 
 Sparkify is a start up that provides a music streaming app to allow users to listen to music on demand.  
